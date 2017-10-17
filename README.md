@@ -1,5 +1,6 @@
 Plugin Armadito for GLPI
-========================
+
+![Armadito banner](https://user-images.githubusercontent.com/29282308/31666125-70701ba8-b34b-11e7-9d04-f5efb042d58c.png)
 
 [![Join the chat at https://gitter.im/armadito/armadito-glpi](https://badges.gitter.im/armadito/armadito-glpi.svg)](https://gitter.im/armadito/armadito-glpi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/armadito/armadito-glpi.svg?branch=DEV)](https://travis-ci.org/armadito/armadito-glpi)
@@ -28,4 +29,3 @@ Copyright (C) Teclib', 2016
 See Online documentation at : <http://armadito-glpi.readthedocs.io/en/dev/>
 
 Ask your questions on forum : <https://forum.armadito.org>
- 
