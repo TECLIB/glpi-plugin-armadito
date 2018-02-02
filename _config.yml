@@ -1,9 +1,9 @@
 title: glpi plugin armadito
-email: ml-flyvemdm@teclib.com
-twitter: flyvemdm
+email: contact@teclib.com
+twitter: Teclib
 baseurl: "/glpi-plugin-armadito"
-url: "http://flyve.org"   
-image: http://flyve.org/glpi-plugin-armadito/images/logo2.png
+url: "https://teclib.github.io"   
+image: https://teclib.github.io/glpi-plugin-armadito/images/logo2.png
 
 # Build settings
 markdown: kramdown
@@ -13,7 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-repository: flyve-mdm/glpi-plugin-armadito
+repository: TECLIB/glpi-plugin-armadito
 
 sass:
     style: compressed
