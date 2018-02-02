@@ -1,7 +1,7 @@
 repository:
   name: glpi-plugin-armadito
   description: GLPI Plugin for Armadito
-  homepage: http://flyve.org/glpi-plugin-armadito/
+  homepage: http://teclib.github.io/glpi-plugin-armadito/
   topics: glpi-plugin, armadito, antivirus
   private: false
   has_issues: true
